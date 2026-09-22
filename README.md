@@ -4,7 +4,7 @@
 Passionate Computer Science Engineering student focused on building robust web applications and RESTful APIs using Python and Django.
 
 - 📍 Location: Kozhikode, Kerala, India
-- 💼 LinkedIn: [linkedin.com/in/kavya-sreekumar](https://linkedin.com/in/kavya-sreekumar)
+- 💼 LinkedIn: [Kavya Sreekumar](https://www.linkedin.com/in/kavya-sreekumar-6b759334a)
 - 📧 Email: kavyasreek777@gmail.com
 
 ---
